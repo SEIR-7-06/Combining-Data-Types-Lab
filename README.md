@@ -1,5 +1,3 @@
-[![General Assembly Logo](/ga_cog.png)](https://generalassemb.ly)
-
 # Avengers, Assemble! (And Other Objects)
 
 ![avengers](https://imgur.com/wd9dzYu.png)
